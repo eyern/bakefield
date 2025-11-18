@@ -41,7 +41,7 @@ a {
 }
 
 a:hover {
-  color: #B77466;
+  color: #68f7c9;
   text-decoration: none;
 }
 
@@ -206,7 +206,7 @@ p:last-child {
   position: absolute;
   top: calc(50% - 3vmax);
   left: calc(50% - 3vmax);
-  border-left: 3px solid #B77466;
+  border-left: 3px solid #68f7c9;
   border-radius: 100%;
   -webkit-animation: spinLeft 800ms linear infinite;
   animation: spinLeft 800ms linear infinite;
@@ -220,7 +220,7 @@ p:last-child {
   position: absolute;
   top: calc(50% - 3vmax);
   left: calc(50% - 3vmax);
-  border-left: 3px solid #B77466;
+  border-left: 3px solid #68f7c9;
   border-radius: 100%;
   -webkit-animation: spinLeft 800ms linear infinite;
   animation: spinLeft 800ms linear infinite;
@@ -403,7 +403,7 @@ p:last-child {
 }
 
 .orange-text {
-  color: #B77466;
+  color: #68f7c9;
 }
 
 .blue-bg {
@@ -413,7 +413,7 @@ p:last-child {
 a.boxed-btn {
   font-family: 'Poppins', sans-serif;
   display: inline-block;
-  background-color: #B77466;
+  background-color: #68f7c9;
   color: #fff;
   padding: 10px 20px;
 }
@@ -422,7 +422,7 @@ a.bordered-btn {
   font-family: 'Poppins', sans-serif;
   display: inline-block;
   color: #fff;
-  border: 2px solid #B77466;
+  border: 2px solid #68f7c9;
   padding: 7px 20px;
 }
 
@@ -437,7 +437,7 @@ a.read-more-btn {
 }
 
 a.read-more-btn:hover {
-  color: #B77466;
+  color: #68f7c9;
 }
 
 a.boxed-btn, a.bordered-btn, a.cart-btn {
@@ -458,7 +458,7 @@ a.boxed-btn, a.bordered-btn, a.cart-btn {
   bottom: 0px;
   width: 50px;
   height: 2px;
-  background-color: #B77466;
+  background-color: #68f7c9;
   margin: 0 auto;
 }
 
@@ -481,7 +481,7 @@ a.boxed-btn, a.bordered-btn, a.cart-btn {
 }
 
 .breadcrumb-text p {
-  color: #B77466;
+  color: #68f7c9;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 7px;
@@ -628,7 +628,7 @@ ul.sub-menu li:last-child{
 }
 
 .mean-bar a.meanmenu-reveal {
-  background-color: #B77466;
+  background-color: #68f7c9;
 }
 
 .main-menu-wrap {
@@ -698,11 +698,11 @@ nav.main-menu ul ul.sub-menu li a{
 }
 
 nav.main-menu ul li.current-list-item > a {
-  color: #B77466;
+  color: #68f7c9;
 }
 
 nav.main-menu li:hover > a {
-  color: #B77466;
+  color: #68f7c9;
 }
 
 nav.main-menu li a {
@@ -718,7 +718,7 @@ nav.main-menu li a {
 }
 
 .top-header-area .header-icons a:hover {
-  color: #B77466;
+  color: #68f7c9;
 }
 
 .sticky-wrapper {
@@ -792,7 +792,7 @@ a.mobile-show {
   padding: 15px;
   width: 60%;
   background-color: transparent;
-  border-bottom: 1px solid #B77466;
+  border-bottom: 1px solid #68f7c9;
   display: block;
   margin: 0 auto;
   text-align: center;
@@ -804,7 +804,7 @@ a.mobile-show {
 
 .search-bar-tablecell button[type=submit] {
   border: none;
-  background-color: #B77466;
+  background-color: #68f7c9;
   padding: 15px 30px;
   cursor: pointer;
   display: inline-block;
@@ -889,7 +889,7 @@ h2.widget-title:after {
   bottom: 0;
   width: 20px;
   height: 2px;
-  background-color: #B77466;
+  background-color: #68f7c9;
   content: "";
 }
 
@@ -929,7 +929,7 @@ h2.widget-title:after {
   width: 20%;
   border: none;
   background-color: #012738;
-  color: #B77466;
+  color: #68f7c9;
   padding: 14px 0;
   border-top-right-radius: 3px;
   border-bottom-right-radius: 3px;
@@ -954,7 +954,7 @@ h2.widget-title:after {
 }
 
 .copyright a {
-  color: #B77466;
+  color: #68f7c9;
   font-weight: 700;
 }
 
@@ -996,7 +996,7 @@ h2.widget-title:after {
   content: "\f105";
   font-family: "Font Awesome 5 Free";
   font-weight: 900;
-  color: #B77466;
+  color: #68f7c9;
 }
 
 /* -----------------------------------------------------------------------------
@@ -1022,7 +1022,7 @@ a.boxed-btn {
 
 a.boxed-btn:hover {
   background-color: #051922;
-  color: #B77466;
+  color: #68f7c9;
 }
 
 a.bordered-btn {
@@ -1032,7 +1032,7 @@ a.bordered-btn {
 }
 
 a.bordered-btn:hover {
-  background-color: #B77466;
+  background-color: #68f7c9;
   color: #fff;
 }
 
@@ -1043,7 +1043,7 @@ ul.sub-menu a{
 }
 
 ul.sub-menu li:hover a{
-  color: #B77466;
+  color: #68f7c9;
 }
 
 .single-tof-box {
@@ -1065,7 +1065,7 @@ a.video-play-btn {
 
 a.video-play-btn:hover {
   background-color: #333;
-  color: #B77466;
+  color: #68f7c9;
 }
 
 .latest-news-bg {
@@ -1091,7 +1091,7 @@ a.tof-btn i {
 }
 
 a.tof-btn:hover {
-  color: #B77466;
+  color: #68f7c9;
 }
 
 a.tof-btn:hover i {
@@ -1130,7 +1130,7 @@ a.tof-btn:hover i {
 }
 
 .footer-box.pages ul li:hover a {
-  color: #B77466;
+  color: #68f7c9;
 }
 
 .footer-box.subscribe form button {
@@ -1140,12 +1140,12 @@ a.tof-btn:hover i {
 }
 
 .footer-box.subscribe form button:hover {
-  background-color: #B77466;
+  background-color: #68f7c9;
   color: #051922;
 }
 
 .social-icons ul li:hover a {
-  color: #B77466;
+  color: #68f7c9;
 }
 
 .social-icons ul li a {
@@ -1162,7 +1162,7 @@ ul.social-link-team li a {
 
 ul.social-link-team li a:hover {
   background-color: #051922;
-  color: #B77466;
+  color: #68f7c9;
 }
 
 .counter-box {
@@ -1185,7 +1185,7 @@ input[type="submit"] {
 
 input[type="submit"]:hover {
   background-color: #051922;
-  color: #B77466;
+  color: #68f7c9;
 }
 
 div.owl-controls, .owl-controls div {
@@ -1205,7 +1205,7 @@ div.owl-controls div.owl-nav div:hover {
 }
 
 .pagination-wrap ul li:hover a {
-  background-color: #B77466;
+  background-color: #68f7c9;
 }
 
 .icons a i {
@@ -1215,7 +1215,7 @@ div.owl-controls div.owl-nav div:hover {
 }
 
 .icons a:hover i {
-  color: #B77466;
+  color: #68f7c9;
 }
 
 .tof-text a.tof-btn {
@@ -1253,7 +1253,7 @@ a.cart-btn {
 
 a.cart-btn:hover {
   background-color: #051922;
-  color: #B77466;
+  color: #68f7c9;
 }
 
 .recent-posts ul li {
@@ -1273,7 +1273,7 @@ ul.sub-menu li a{
 }
 /* สีตัวหนังสือตอนเมาส์โดน ใน submenu*/
 ul.sub-menu li:hover a{
-  color: #B77466 !important;
+  color: #68f7c9 !important;
 }
 
 .sidebar-section ul li a {
@@ -1293,7 +1293,7 @@ ul.sub-menu li:hover a{
 }
 
 .comment-text-body h4 a:hover {
-  color: #B77466;
+  color: #68f7c9;
 }
 
 ul.product-share li a {
@@ -1303,7 +1303,7 @@ ul.product-share li a {
 }
 
 ul.product-share li:hover a {
-  color: #B77466;
+  color: #68f7c9;
 }
 
 .service-menu ul li a {
@@ -1360,7 +1360,7 @@ a.mobile-show.search-bar-icon {
 }
 
 a.mobile-show.search-bar-icon:hover {
-  color: #B77466;
+  color: #68f7c9;
 }
 
 /* -----------------------------------------------------------------------------
@@ -1407,7 +1407,7 @@ html, body {
 }
 
 .hero-text p.subtitle {
-  color: #B77466;
+  color: #68f7c9;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 7px;
@@ -1464,7 +1464,7 @@ html, body {
 }
 
 input[type="submit"] {
-  background-color: #B77466;
+  background-color: #68f7c9;
   /* color: #051922; */
   color: #ffffff;
   font-weight: 700;
@@ -1534,7 +1534,7 @@ input[type="submit"] {
 div.owl-controls, .owl-controls div {
   height: auto;
   top: 50%;
-  color: #B77466;
+  color: #68f7c9;
   font-size: 48px;
 }
 
@@ -1584,12 +1584,12 @@ div.owl-controls, .owl-controls div {
   display: block;
   font-size: 24px;
   margin-right: 15px;
-  color: #B77466;
+  color: #68f7c9;
   width: 65px;
   height: 65px;
   text-align: center;
   line-height: 60px;
-  border: 2px #B77466 dotted;
+  border: 2px #68f7c9 dotted;
   border-radius: 999px;
 }
 
@@ -1708,7 +1708,7 @@ p.excerpt {
 }
 
 .pagination-wrap ul li a.active {
-  background-color: #B77466;
+  background-color: #68f7c9;
 }
 
 .single-artcile-bg {
@@ -1931,7 +1931,7 @@ span.comment-date {
   margin-top: 8px;
   text-align: center;
   border-radius: 50%;
-  background-color: #B77466;
+  background-color: #68f7c9;
 }
 
 .cart-banner .image-column .price-box .inner-price .price {
@@ -1989,7 +1989,7 @@ span.comment-date {
   padding: 8px 20px 14px;
   text-transform: capitalize;
   text-align: center;
-  border: 2px solid #B77466;
+  border: 2px solid #68f7c9;
 }
 
 .time-countdown .counter-column .count {
@@ -1998,7 +1998,7 @@ span.comment-date {
   font-size: 30px;
   line-height: 1.4em;
   padding: 0px 0px;
-  color: #B77466;
+  color: #68f7c9;
   font-weight: 700;
   letter-spacing: 1px;
 }
@@ -2055,7 +2055,7 @@ p.testimonial-body {
 ----------------------------------------------------------------------------- */
 a.video-play-btn {
   position: absolute;
-  background-color: #B77466;
+  background-color: #68f7c9;
   color: #051922;
   width: 90px;
   height: 90px;
@@ -2182,7 +2182,7 @@ a.video-play-btn {
   position: relative;
   font-size: 60px;
   font-weight: 700;
-  color: #B77466;
+  color: #68f7c9;
 }
 
 .shop-banner .sale-percent span {
@@ -2348,7 +2348,7 @@ ul.social-link-team li {
 
 ul.social-link-team li a {
   color: #fff;
-  background-color: #B77466;
+  background-color: #68f7c9;
   width: 32px;
   height: 32px;
   line-height: 32px;
@@ -2419,7 +2419,7 @@ contact# Contact Page Styles
 .contact-form-box h4 i {
   position: absolute;
   left: -13%;
-  color: #B77466;
+  color: #68f7c9;
   top: 2px;
 }
 
@@ -2442,7 +2442,7 @@ contact# Contact Page Styles
 
 .find-location p i {
   margin-right: 10px;
-  color: #B77466;
+  color: #68f7c9;
 }
 
 #form_status span {
@@ -2517,8 +2517,8 @@ contact# Contact Page Styles
 }
 
 .product-filters ul li.active {
-  border: 2px solid #B77466;
-  background-color: #B77466;
+  border: 2px solid #68f7c9;
+  background-color: #68f7c9;
   color: #fff;
 }
 
@@ -2569,7 +2569,7 @@ p.product-price span {
 a.cart-btn {
   font-family: 'Poppins', sans-serif;
   display: inline-block;
-  background-color: #B77466;
+  background-color: #68f7c9;
   color: #fff;
   padding: 10px 20px;
   width: 150px;
@@ -2831,7 +2831,7 @@ tr.total-data td strong {
   font-weight: 900;
   line-height: 22px;
   margin-top: -11px;
-  color: #B77466;
+  color: #68f7c9;
 }
 
 .billing-address-form form p:last-child {
@@ -2956,7 +2956,7 @@ table.order-details tbody td {
   border-radius: 3px;
 }
 .login-form input[type="submit"], .register-form input[type="submit"]{
-  background-color: #B77466;
+  background-color: #68f7c9;
   color: #ffffff;
   font-weight: 700;
   text-transform: uppercase;
@@ -2971,7 +2971,7 @@ table.order-details tbody td {
 
 .login-form input[type="submit"]:hover, .register-form input[type="submit"]:hover{
   background-color: #051922;
-  color: #B77466;
+  color: #68f7c9;
 
 }
 
@@ -3021,7 +3021,7 @@ a.back-to-top i {
   height: 40px;
   line-height: 40px;
   color: #fff;
-  background: #B77466;
+  background: #68f7c9;
   border-radius: 2px;
   text-align: center;
   transition: all 0.2s ease-in-out;
@@ -3043,7 +3043,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 
 td.product-edit a, td.product-del a, td.member-edit a, td.member-del a  {
   /* เปลี่ยนสี icon */
-  color: #B77466;
+  color: #68f7c9;
 }
 
 td.product-edit a:hover, td.product-del a:hover, td.member-edit a:hover, td.member-del a:hover {
@@ -3264,7 +3264,7 @@ body.body-addProd h4{
 .Display-Prod h1 {
   font-family: "Poppins", sans-serif;
   font-weight: 700;
-  color: #B77466;
+  color: #68f7c9;
   font-size: 30px;
   /* padding: 20px 0 20px 0; */
 }
@@ -3354,7 +3354,7 @@ td.row-address, td.row-email{
 
 td.member-edit, td.member-del{
   /* เปลี่ยนสี icon */
-  /* color: #B77466; */
+  /* color: #68f7c9; */
   /* margin: 0 auto; */
   text-align: center;
 }
@@ -3372,13 +3372,13 @@ button.cart-btn {
 
 button.cart-btn:hover {
   background-color: #051922;
-  color: #B77466;
+  color: #68f7c9;
 }
 
 
 button.cart-btn {
   font-family: "Poppins", sans-serif;
-  background-color: #B77466;
+  background-color: #68f7c9;
   color: #fff;
   padding: 10px 20px;
   border-radius: 50px;
